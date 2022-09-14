@@ -1,0 +1,3 @@
+[debug] > Exec(bloopInstall, Some(00cb364b-7299-4d34-aac7-7936141c3aac), Some(CommandSource(console0)))
+[debug] Evaluating tasks: bloopInstall
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true

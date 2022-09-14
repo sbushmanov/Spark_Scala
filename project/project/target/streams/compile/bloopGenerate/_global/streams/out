@@ -1,0 +1,4 @@
+[debug] [scala_cookbook_v2-build-build] Classpath dependencies List()
+[debug] [scala_cookbook_v2-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala_cookbook_v2-build-build' to '/home/sergey/Scala_Cookbook_v2/project/project/.bloop/scala_cookbook_v2-build-build.json'
+[success] Generated .bloop/scala_cookbook_v2-build-build.json

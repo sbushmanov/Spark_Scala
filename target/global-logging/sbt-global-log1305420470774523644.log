@@ -1,0 +1,12 @@
+[debug] > Exec(__stopWatch network-97, None, None)
+[info] shutting down sbt server
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   /home/sergey/myapp/build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:///home/sergey/.sbt/1.0/server/929d78b799db7a3e4695/sock
+[debug] Writing bsp connection file
+[info] started sbt server
